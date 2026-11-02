@@ -1,0 +1,17 @@
+# PyTorch model checkpoints (exceed GitHub 50MB warning limit)
+*.pth
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
